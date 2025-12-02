@@ -34,3 +34,7 @@ footer{
     color: #fff;
     background-color: black;
 }
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color: #cccccc20;
+}
