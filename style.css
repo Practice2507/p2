@@ -1,3 +1,23 @@
 .navbar-brand img{
     width: 130px;
 }
+.feature-item img{
+    width: 50px;
+    height: auto;
+    
+}
+.list-group{
+    font-size: 18px;
+}
+.list-group-item span{
+    color: black;
+    font-weight: 500;
+}
+.main-header{
+    padding-top: 100px;
+}
+.subcribe{
+    background-image: url(./img/subscribe.jpg);
+    background-size: cover;
+    background-position: center;
+}
