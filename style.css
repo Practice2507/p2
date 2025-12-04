@@ -14,7 +14,7 @@
     font-weight: 500;
 }
 .main-header{
-    padding-top: 100px;
+    padding-top: 120px;
 }
 .subcribe{
     background-image: url(./img/subscribe.jpg);
@@ -37,4 +37,25 @@ footer{
 .blur-filter{
     backdrop-filter: blur(8px);
     background-color: #cccccc20;
+}
+.p-blog{
+font-size: 22px;
+}
+.span-item{
+    font-size: 22px;
+}
+.contact-item{
+    margin-top: 100px;
+}
+.text-card-body{
+    font-size: 22px;
+}
+.cost-item{
+    margin-top: 80px;
+}
+.text-covered{
+font-size: 21px;
+}
+.blog-item-1{
+    font-size: 19px;
 }
